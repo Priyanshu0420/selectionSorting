@@ -56,7 +56,7 @@ public class currencyExchange {
             }
         }               */
         } else{
-            System.out.println("try again & input a valid value");
+            System.out.println("input a valid value");
         }
     }
 
